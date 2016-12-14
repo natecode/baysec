@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BaySec Event feed    </title>
+        <link href="/atom.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2016-12-13T19:58:03Z</updated>
+
+    <id>/atom.xml/</id>
+
+            <entry>
+            <title type="html">December 2016 Baysec</title>
+            <author><name>John-Mark Gurney</name></author>
+            <link href="/meetups/2016-12-13-December.html"/>
+            <updated>2016-12-14T01:00:00Z</updated>
+            <published>2016-12-14T01:00:00Z</published>
+            <id>/meetups/2016-12-13-December.html</id>
+            
+            <content type="html">
+                                &lt;h1&gt;December 20th,&amp;nbsp;2016&lt;/h1&gt;
+&lt;p&gt;Starts at 7pm at Patriot House&amp;nbsp;Pub.&lt;/p&gt;            </content>
+        </entry>
+    </feed>
